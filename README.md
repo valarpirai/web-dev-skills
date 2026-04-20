@@ -14,6 +14,7 @@ Skills are SKILL.md files that teach Claude specific domain knowledge, patterns,
 | [System Design](.claude/skills/system-design/SKILL.md) | `/system-design` | Scalability patterns, capacity planning, and architectural trade-offs |
 | [Event-Driven Architecture](.claude/skills/event-driven-architecture/SKILL.md) | `/event-driven-architecture` | Kafka, CQRS, sagas, outbox pattern, and async messaging design |
 | [Resilience Patterns](.claude/skills/resilience-patterns/SKILL.md) | `/resilience-patterns` | Circuit breakers, retries, bulkheads, timeouts, and fallbacks |
+| [Doc Improver](.claude/skills/doc-improver/SKILL.md) | `/doc-improver` | Analyse docs/ and CLAUDE.md, apply improvements for better Claude Code usability, then review |
 
 ## Usage
 
