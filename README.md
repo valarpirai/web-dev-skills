@@ -11,6 +11,9 @@ Skills are SKILL.md files that teach Claude specific domain knowledge, patterns,
 | Skill | Command | Description |
 |-------|---------|-------------|
 | [Twelve-Factor App](.claude/skills/twelve-factor-app/SKILL.md) | `/twelve-factor-app` | Audit a backend service against the 12-factor methodology — flags violations and suggests fixes |
+| [System Design](.claude/skills/system-design/SKILL.md) | `/system-design` | Scalability patterns, capacity planning, and architectural trade-offs |
+| [Event-Driven Architecture](.claude/skills/event-driven-architecture/SKILL.md) | `/event-driven-architecture` | Kafka, CQRS, sagas, outbox pattern, and async messaging design |
+| [Resilience Patterns](.claude/skills/resilience-patterns/SKILL.md) | `/resilience-patterns` | Circuit breakers, retries, bulkheads, timeouts, and fallbacks |
 
 ## Usage
 
